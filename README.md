@@ -1,1 +1,1 @@
-# Image-Denoising
+# Image-Denoising-using-Fast-Fourier-Transform
