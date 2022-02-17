@@ -1,4 +1,7 @@
 # Image-Denoising-using-Fast-Fourier-Transform
+* Images are inevitably contaminated by noise during acquisition, compression, and transmission, leading to distortion and loss of image information. With the presence of noise, possible subsequent image processing tasks, such as video processing, image analysis, and tracking, are adversely affected. Therefore, image denoising plays an important role in modern image processing systems.
+* Image denoising is to remove noise from a noisy image, so as to restore the true image. However, since noise, edge, and texture are high frequency components, it is difficult to distinguish them in the process of denoising and the denoised images could inevitably lose some details.
+* Overall, recovering meaningful information from noisy images in the process of noise removal to obtain high quality images is an important problem nowadays.
 <p align="center">
   <img src="https://miro.medium.com/max/1400/1*RVsX901R3uAFhGD_qTWoSA.gif" width="350" height="250"/>
 </p>
